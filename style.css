@@ -22,7 +22,7 @@ body{
 }
 
 .component{
-    width: 250px;
+    width: 300px;
     height: auto;
     background-color: hsl(0, 0%, 100%);
     border-radius: 15px;
@@ -30,7 +30,7 @@ body{
 }
 
 .component-card{
-    margin: 10px;
+    margin: 25px;
 }
 
 .qr-image{
@@ -44,17 +44,18 @@ body{
     font-size: 17px;
     text-align: center;
     line-height: 20px;
-    margin: 15px 10px 0px 10px;
+    color: hsl(218, 44%, 22%);
+    margin: 20px 10px 0px 10px;
+    padding: 0px 9px;
 }
 
 p{
     font-size: 13px;
     text-align: center;
     margin-top: 10px;
-    margin-bottom: 30px;
-    line-height: 15px;
-    opacity: 0.4;
-    font-weight: 400;
+    margin-bottom: 40px;
+    color: hsl(220, 15%, 55%);
+    padding: 0px 9px;
 }
 
 .attribution { 
