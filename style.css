@@ -26,6 +26,7 @@ body{
     height: auto;
     background-color: hsl(0, 0%, 100%);
     border-radius: 15px;
+    box-shadow: 10px 9px 14px -12px rgb(0 0 0 / 19%), -9px -8px 14px -12px rgb(0 0 0 / 19%);
 }
 
 .component-card{
